@@ -11,4 +11,4 @@ class Dictionary:
 
     @property
     def dict(self):
-        return self._dict
+     return self._dict
